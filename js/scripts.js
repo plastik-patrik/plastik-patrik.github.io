@@ -6,8 +6,6 @@
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
 
-<script type="application/javascript">
-
     /*
      * This is a demo code for Telegram WebApp for Bots
      * It contains basic examples of how to use the API
